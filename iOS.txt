@@ -1,0 +1,6 @@
+VNPAY_IOS_SDK_ANGKORAIR_URL //CBP Provider
+GOOGLE_MAP_API_KEY //use to the map display of the pick-up point, drop-off point, gen by bank
+ANGKORAIR_LICENSE_TEST //CBP Provider
+ANGKORAIR_LICENSE_KEY_TEST //CBP Provider
+ANGKORAIR_LICENSE_LIVE //CBP Provider
+ANGKORAIR_LICENSE_KEY_LIVE //CBP Provider
